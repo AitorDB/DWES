@@ -1,2 +1,2 @@
 # DWES
-DWES exercise repository
+DWES exercises repository
